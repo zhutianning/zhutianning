@@ -1,12 +1,6 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" /> Hello World <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30" /></h1>
-
-👋 Hey! I'm Zack.
-
-📫 You can reach me at: zackzhu00@foxmail.com
-
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" /> Hello World👋 Hey! I'm Zack. </h1>
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhutianning.zhutianning)](https://github.com/zhutianning)
-
-
+📫 You can reach me at: zackzhu00@foxmail.com
 ## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 ⭐
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
